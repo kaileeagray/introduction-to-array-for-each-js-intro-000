@@ -1,4 +1,4 @@
-function doToElementsInArray() {
+function doToElementsInArray(array, callbak) {
 
 }
 
