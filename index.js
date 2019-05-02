@@ -2,6 +2,6 @@ function doToElementsInArray(array, callbak) {
 
 }
 
-function changeCompletely() {
+function changeCompletely(element) {
 
 }
